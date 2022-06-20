@@ -2,5 +2,10 @@ Paloma
 Cigüeña
 Golondrina
 Gaviota
+<<<<<<< HEAD
 Pájaro
 Pingüino
+=======
+Pajaro
+Pingüino
+>>>>>>> Rama-Aves
