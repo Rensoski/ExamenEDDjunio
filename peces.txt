@@ -2,3 +2,4 @@ Atún
 Sardina
 Jurel
 Caballa
+Salmón
